@@ -8,7 +8,7 @@
 ![WhatsApp Image 2024-07-21 at 6 55 50 PM (1)](https://github.com/user-attachments/assets/e03e9f1a-8f52-44cc-b57d-427f85d13d4b)
 
 # Induction Report 2024
-|Date|Resource Person|Description|
+| Date | Resource Person | Description |
 |11July,2024 | Dr.Arvind Dhingra | He inspired all the students to explore new things in life.|
 |11July,2024| Dr.Parminder Singh|He gave advice and assistance to students in development to their educational future plans.|
 |11July,2024| Dr.H.S. Rai | He gave us suggestions to how to counter exam stress and told us about various oppurtunities that are available in college for skill development.|
