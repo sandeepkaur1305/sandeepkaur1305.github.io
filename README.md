@@ -9,6 +9,7 @@
 
 # Induction Report 2024
 |Date|Resource Person|Description|
+
 |-------------|-------------|-------------|
 
 |11July,2024 | Dr.Arvind Dhingra | He inspired all the students to explore new things in life.|
